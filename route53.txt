@@ -1,6 +1,7 @@
 Routing Policies:
 - Simple
---- default routing policy when you create a new record set. Most commonly used when you have a single resource that performs a given function for your domain (e.g. one web server that serves content for violetfamily.com)
+--- default routing policy when you create a new record set. Most commonly used when you have a single resource that performs a given function for your domain
+(e.g. one web server that serves content for violetfamily.com)
 - Weighted
 --- allows you to split your traffic based on different weights assigned
 - Latency
